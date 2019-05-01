@@ -7,5 +7,5 @@ def my_select(arr)
   
     count += 1 
   end
-  "[#{nuarray[0]}" + ", " "#{nuarray[1]}]"
+  nuarray
 end
